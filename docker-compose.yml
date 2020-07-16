@@ -1,0 +1,18 @@
+version: '3.4'
+
+x-shared: &common
+  image: base-build
+  build:
+    context: .
+    dockerfile: Dockerfile
+  volumes:
+    - .:/src/nma-ibl
+    - .:/notebooks
+  env_file:
+    - .env
+
+services:
+  notebook:
+    <<: *common
+    ports:
+      - "0.0.0.0:${JUPYTER_PORT:-8888}:8888"
