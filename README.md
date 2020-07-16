@@ -1,7 +1,7 @@
 # IBL pipeline access for Neuromatch Academy workshop
 
 
-This package serves as a mini enviroment to interact with the public database of [International Brain Laboratory](https://internationalbrainlab.org) (IBL), as the resource of one of the projects for Neurmatch Academy workshop 2020.
+This package serves as a mini enviroment to interact with the public database of [International Brain Laboratory](https://internationalbrainlab.org) (IBL), as the resource of one of the projects for [Neurmatch Academy workshop 2020](https://www.neuromatchacademy.org/).
 
 
 ## IBL and DataJoint
