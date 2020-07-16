@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='nma-ibl',
-    version='0.0.0',
+    version='0.1.0',
     description='Toolkits to access data in IBL public database',
     author='Vathes',
     author_email='support@vathes.com',
