@@ -6,7 +6,7 @@ This package serves as a mini enviroment to interact with the public database of
 ## Access to the IBL public data pipeline
 **PLEASE READ** If you are a NMA student in a group working on the IBL data pipeline for your project, please contact your TA for a dedicated access information specifically for the project purpose, and refrain from using the link below to obtain your data pipeline access!
 
-As part of the Neuromatch Academy course material, we have prepared a dedicated access to IBL public data pipeline for those interested in exploring the data. Please visit and register your email at [DataJoint.io NMA Public Access](https://datajoint.io/events/nma-ibl-public) to receive the access credentials needed to run the notebooks.
+If you are not a NMA student, we have also prepared a dedicated access to the IBL public data pipeline. Please visit and register your email at [DataJoint.io NMA Public Access](https://datajoint.io/events/nma-ibl-public) to receive the access credentials to the database. You will be able to fill in your credentials in the notebooks posted below and get them run.
 
 
 ## Tutorial notebooks
