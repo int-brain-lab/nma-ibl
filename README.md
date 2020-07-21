@@ -3,6 +3,12 @@
 
 This package serves as a mini enviroment to interact with the public database of [International Brain Laboratory](https://internationalbrainlab.org) (IBL), as the resource for one of the projects for [Neurmatch Academy workshop 2020](https://www.neuromatchacademy.org/).
 
+## Tutorial notebooks
+There are a total of 3 tutorial notebooks stepping through with examples on how to navigate and access the IBL data pipeline. You can also click on the Colab link to run the notebook in [Google Colab](https://colab.research.google.com/)
+
+1. Explore IBL behavior data pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/int-brain-lab/nma-ibl/blob/master/01-Explore%20IBL%20behavior%20data%20pipeline.ipynb)
+2. Plot Psychometric curve [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/int-brain-lab/nma-ibl/blob/master/02-Plot%20Psychometric%20curve.ipynb)
+3. Replication of paper figures [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/int-brain-lab/nma-ibl/blob/master/03-Replication%20of%20paper%20figures.ipynb)
 
 ## IBL and DataJoint
 The [International Brain Laboratory](https://internationalbrainlab.org) is a team of systems and computational neuroscientists, working collaboratively to understand the computations that support decision-making in the brain. IBL public database contains data from a standardized training pipeline, implemented across 9 labs of 7 institutions. Mice learn to make decisions that combine incoming visual evidence with internal beliefs about the dynamic structure of the environment. The contents of the current public reflects data used in the recent [preprint](https://www.biorxiv.org/content/10.1101/2020.01.17.909838v2) published by IBL. The [IBL Data Portal](https://data.internationalbrainlab.org/) provides a interative environment to navigate and visualize the data.
