@@ -1,7 +1,7 @@
 # IBL pipeline access for Neuromatch Academy workshop
 
 
-This package serves as a mini enviroment to interact with the public database of [International Brain Laboratory](https://internationalbrainlab.org) (IBL), as the resource for one of the projects for [Neurmatch Academy workshop 2020](https://www.neuromatchacademy.org/).
+This package serves as a mini enviroment to interact with the public database of [International Brain Laboratory](https://internationalbrainlab.org) (IBL), as the resource for one of the projects for [Neuromatch Academy workshop 2020](https://www.neuromatchacademy.org/).
 
 ## Tutorial notebooks
 There are a total of 3 tutorial notebooks stepping through with examples on how to navigate and access the IBL data pipeline. You can also click on the Colab link to run the notebook in [Google Colab](https://colab.research.google.com/)
